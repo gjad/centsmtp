@@ -1,0 +1,9 @@
+/target
+/archive
+/logs
+/data/events.jsonl
+/centsmtp.conf
+/data/disposable_domains.txt
+/smtp.md
+/data/blacklist.json
+/todo.md
